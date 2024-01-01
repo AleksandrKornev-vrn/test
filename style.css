@@ -78,7 +78,7 @@ td {
 
 #result-arabic-calculator, #result-roman-calculator {
   font-family: Gilroy, sans-serif;
-  color: white;
+  color: red;
   font-size: xx-large;
   border-width: 0px;
 }
@@ -94,7 +94,7 @@ td {
 .reset-button {
   font-family: Gilroy, sans-serif;
   font-size: x-large;
-  color: white;
+  color: red;
   width: 55px;
   height: 55px;
   background-color: #F09C32;
